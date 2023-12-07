@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keerthana-lab
 - 👀 I’m interested in developing UI
-- 🌱 I’m currently learning React, Next JS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/keerthana-ganesh 
 
